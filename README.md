@@ -15,7 +15,7 @@ Features of my Weather Forecast Project :
 
 
 
-## Front-end Part
+## Technology Overview
 
     1. Python version 3.8.1
     2. Django 3.1
