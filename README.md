@@ -13,7 +13,9 @@ Features of my Weather Forecast Project :
 7. Hlp user to travel and future plans for holidays
 
 
-##Technology Overview :
+
+
+## Front-end Part
 
     1. Python version 3.8.1
     2. Django 3.1
@@ -21,7 +23,7 @@ Features of my Weather Forecast Project :
 
 ## Front-end Part
 
-    1.  HTML
+    1. HTML
     2. CSS
     3. Bootstrap
     4. JavaScript
