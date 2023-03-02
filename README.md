@@ -1,2 +1,2 @@
-# Weather-Forecaste
+# Weather App
 Weather App using Openweathermap API
