@@ -1,5 +1,5 @@
-# Weather App
-This is a Weather App using Openweathermap API,Python and Django.
+# Weather 360
+Weather 360 is a weather App using Openweathermap API,Python and Django.
 The user can access current weather data for any location on Earth including over 200,000 cities.In addition to that,one can search weather forecast for 5 days with data every 3 hours by geographic coordinates at any location on the globe.
 
 Features of my Weather Forecast Project :
