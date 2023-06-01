@@ -12,7 +12,7 @@ Features of my Weather Forecast Project :
 6. User can search weather at anytime and anywhere on the globe
 7. Hlp user to travel and future plans for holidays
 
-Initially page ,before enter the location :
+Initial page ,before enter the location :
 <img width="920" alt="image" src="https://github.com/ShaliniMuthukumar/Weather-Forecast/assets/106624891/7ca0b59d-f366-4cd0-b221-8b396e40da8e">
 
 Giving input : 
